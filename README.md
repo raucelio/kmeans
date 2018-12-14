@@ -11,5 +11,5 @@ Os arquivos tem os seguintes propositos:
 
 3. **Os arquivos com extensão csv** são as bases de dados utilizadas nos exercícios propostos.
 
-4. **Os arquivos com extensão R** são propostas de solução para os exercícios propostos.
+4. **Os arquivos com extensão R** são soluções para os exercícios propostos.
 
