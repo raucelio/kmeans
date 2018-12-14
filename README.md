@@ -9,7 +9,7 @@ Os arquivos tem os seguintes propositos:
    
 2. **Curso_de_Multivariada_Cluster.pdf** mais um pouco de teoria e exerícios para serem feitos com o auxilio do R.
 
-3. **Os arquivos com extensão csv* são as bases de dados utilizadas nos exercícios propostos.
+3. **Os arquivos com extensão csv** são as bases de dados utilizadas nos exercícios propostos.
 
-4. **Os arquivos com extensão R* são propostas de solução para os exercícios propostos.
+4. **Os arquivos com extensão R** são propostas de solução para os exercícios propostos.
 
